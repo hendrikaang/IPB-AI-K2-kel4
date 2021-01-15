@@ -1,9 +1,9 @@
-# IPB-AI-K2-kel7
+# IPB-AI-K2-kel4
 Solving job shop problem using backtracking
 
 IPB University - Departemen Ilmu Komputer
 Mata kuliah KOM321 Kecerdasan Buatan
-Kelas K2 Kelompok 7
+Kelas K2 Kelompok 4
 
 Daftar anggota:
 - Sabrina Diza Melinda  (G64180029)
